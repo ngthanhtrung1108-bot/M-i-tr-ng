@@ -66,15 +66,15 @@ export default function Layout() {
             <ul className="space-y-3">
               <li className="flex items-start gap-3">
                 <MapPin size={20} className="text-green-400 shrink-0 mt-1" />
-                <span className="text-green-200">123 Đường Xanh, Quận Môi Trường, TP. Trái Đất</span>
+                <span className="text-green-200">THPT so 2 Bao Thang</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={20} className="text-green-400 shrink-0" />
-                <span className="text-green-200">+84 123 456 789</span>
+                <span className="text-green-200">0123456789</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={20} className="text-green-400 shrink-0" />
-                <span className="text-green-200">contact@ecosave.vn</span>
+                <span className="text-green-200">thptso2baothang@gmail.com</span>
               </li>
             </ul>
           </div>
